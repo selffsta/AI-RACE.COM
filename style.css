@@ -1,0 +1,36 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-weight: lighter;
+    font-family: 'Nosifer', sans-serif;
+    font-size: small;
+    
+}
+
+h2, p {
+    color: aliceblue;
+    font-weight: lighter;
+    font-family: 'Castoro', serif;
+    
+}
+
+.about {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+
+.aus {
+    color: aliceblue;
+    font-weight: lighter;
+    font-family: 'Castoro', serif;
+    
+}
+
+.links {
+    color: azure;
+}
